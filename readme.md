@@ -1,11 +1,10 @@
 <<<<<<< HEAD
-testeeeee again
-=======
+
 # Desafios de Front-End - Portfólio 📚💻
 Oi :) 
 Esse é o meu repositório de desafios de programação, para aprimorar minhas habilidades em diversas linguagens! 🚀 
  
-
+testando!! !!!
 ## 📋 Portfólio de ESTUDO
 Este repositório é dedicado a armazenar meus desafios e exercícios de programação. Os desafios estão organizados por pasta e diferentes tópicos, incluindo:
 
